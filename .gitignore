@@ -1,5 +1,4 @@
-~$Notes.docx
-~WRL1579.tmp
-Notes.docx
+*.docx
+*.tmp
 *.jpg
 *.png
