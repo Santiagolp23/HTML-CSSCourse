@@ -2,7 +2,13 @@
     color: red;
 }
  */
+
 /* 
  h2 ~ p { general sibling
      color: red;
  } */
+
+ div > p { /* child selector */
+    color: red;    
+} 
+
