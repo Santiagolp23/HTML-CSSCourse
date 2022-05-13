@@ -1,3 +1,8 @@
-h2 + p { /* adyacent sibling */
+/* h2 + p {  adyacent sibling 
     color: red;
 }
+ */
+/* 
+ h2 ~ p { general sibling
+     color: red;
+ } */
