@@ -10,7 +10,7 @@ main {
     background-color: aqua;
 }
 
-section {
+#sample {
     width: 80%;
     min-width: 320px;
     max-width: 500px;
